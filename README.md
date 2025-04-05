@@ -75,7 +75,7 @@ English, Hindi, Gujarati
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikunj-malani-24b954190/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikunj-malani-24b954190/)
 - 🌐 Portfolio Website: _Coming Soon!_
 
 ---
