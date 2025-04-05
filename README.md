@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikunj D. Malani — A Passionate Flutter Developer
 
-📱 Flutter Developer with over **2 years of experience** building high-performance, scalable mobile apps. I specialize in app architecture, state management, and API integrations using clean, maintainable code.
+📱 Flutter Developer with over **2+ years of experience** building high-performance, scalable mobile apps. I specialize in app architecture, state management, and API integrations using clean, maintainable code.
 
 📩 Reach me at:  
 📞 +91 8866874612  
@@ -40,26 +40,7 @@ GitHub, Jira, Postman, VS Code, Android Studio
 **Languages:**  
 English, Hindi, Gujarati
 
----
 
-## 💼 Experience
-
-### 🏢 StackApp Solutions (July 2023 – Present)  
-**Flutter Developer**
-
-- Developed and maintained cross-platform mobile apps.
-- Implemented GetX, BLoC, and MVVM architectures for state management.
-- Integrated Firebase (Auth, Firestore, Storage).
-- Focused on performance optimization and UI/UX enhancements.
-
-### 🏢 Creative Multimedia (June 2022 – July 2023)  
-**Intern Developer**
-
-- Assisted in mobile app development and debugging.
-- Contributed to new features and performance improvements.
-- Learned and applied clean coding and scalable architecture practices.
-
----
 
 ## 🚀 Projects
 
@@ -94,8 +75,7 @@ English, Hindi, Gujarati
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikunj-malani-24b954190/))
 - 🌐 Portfolio Website: _Coming Soon!_
 
 ---
