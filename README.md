@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — A Passionate Flutter Developer
+# 👋 Hi, I'm [NIkunj Malani] — A Passionate Flutter Developer
 
 Welcome to my GitHub portfolio! I'm a Flutter developer who loves building beautiful, performant mobile apps. My goal is to create apps that make a difference — both in design and functionality.
 
