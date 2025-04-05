@@ -1,51 +1,105 @@
-# 👋 Hi, I'm NIkunj Malani — A Passionate Flutter Developer
+# 👋 Hi, I'm Nikunj D. Malani — A Passionate Flutter Developer
 
-Welcome to my GitHub portfolio! I'm a Flutter developer who loves building beautiful, performant mobile apps. My goal is to create apps that make a difference — both in design and functionality.
+📱 Flutter Developer with over **2 years of experience** building high-performance, scalable mobile apps. I specialize in app architecture, state management, and API integrations using clean, maintainable code.
 
-## 🚀 Skills
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Add more badges like REST APIs, Provider, Bloc, etc. -->
-
-## 🛠 Tools & Technologies
-
-- Flutter (Mobile / Web)
-- Dart
-- Firebase (Auth, Firestore, Cloud Functions)
-- Git & GitHub
-- REST API Integration
-- State Management (Provider, Bloc, Riverpod)
-
-## 📱 Projects
-
-### 1. [Trading Strategy App](https://github.com/yourusername/strategy-trading-app)
-Create, backtest, and deploy trading strategies using live market data.  
-📱 Flutter | 📊 Charts | 🔥 Firebase | 📈 Trading Logic  
-![App Demo](link-to-gif-or-image)
-
-### 2. [Symptom Tracker App](https://github.com/yourusername/symptom-tracker)
-Track health symptoms daily and analyze them via charts.  
-🧠 Mental Health | 📱 Flutter | ☁️ Firebase  
-![App Screenshot](link-to-image)
-
-<!-- Add more projects in similar format -->
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-## 📫 Connect With Me
-
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Portfolio Website: [yourwebsite.com](https://yourwebsite.com)
+📩 Reach me at:  
+📞 +91 8866874612  
+📧 nikunjmalani356@gmail.com
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🎯 Objective
 
-Thanks for visiting my GitHub Portfolio 🙏
+I'm passionate about developing cross-platform mobile applications using Flutter. I focus on clean architecture, modular code, and ensuring a seamless user experience. I'm looking to contribute to organizations that promote innovation and growth.
+
+---
+
+## 🧠 Skills
+
+**Mobile Development:**  
+Flutter, Dart, Android, iOS, Java
+
+**State Management:**  
+BLoC, GetX, MVVM, MobX
+
+**Backend & Cloud Services:**  
+Firebase, Google Cloud, Spring Boot Integration, REST API
+
+**Databases:**  
+SQLite, Hive, Firebase Firestore
+
+**AI & GenAI Integration:**  
+AI-based pad scanning, barcode & food image recognition, prediction systems
+
+**Other Skills:**  
+Clean Architecture, Offline-first Apps, RxDart, Material Design, Social Integration, Push Notifications, Payment Gateway Integration, E-Commerce Development
+
+**Tools:**  
+GitHub, Jira, Postman, VS Code, Android Studio
+
+**Languages:**  
+English, Hindi, Gujarati
+
+---
+
+## 💼 Experience
+
+### 🏢 StackApp Solutions (July 2023 – Present)  
+**Flutter Developer**
+
+- Developed and maintained cross-platform mobile apps.
+- Implemented GetX, BLoC, and MVVM architectures for state management.
+- Integrated Firebase (Auth, Firestore, Storage).
+- Focused on performance optimization and UI/UX enhancements.
+
+### 🏢 Creative Multimedia (June 2022 – July 2023)  
+**Intern Developer**
+
+- Assisted in mobile app development and debugging.
+- Contributed to new features and performance improvements.
+- Learned and applied clean coding and scalable architecture practices.
+
+---
+
+## 🚀 Projects
+
+### 📱 [JOII - Period Tracking App](#)
+- Offline support, pad scanning using AI, and period predictions.
+- Used BLoC architecture and clean architecture principles.
+- Built for both Android and iOS platforms.
+
+### 📊 [Bull IQ - Trading Strategy Backtesting App](#)
+- Designed for algorithmic backtesting using historical data.
+- Integrated multiple technical indicators.
+- Delivered visual performance analytics and optimization tools.
+
+### 🧠 [Power Grams AI - AI Nutrition Tracker](#)
+- Barcode scanning and food image recognition.
+- AI-assisted diet analysis with progress charts.
+- Firebase integration for data and weight tracking.
+
+### 🚇 [UPMRC - UP Metro Rail Corporation App](#)
+- Built with MVVM & GetX, supported offline usage.
+- Ticket booking, shortest route finder, and station locator.
+- Deployed for multiple metro cities in India.
+
+---
+
+## 📈 GitHub Stats
+
+![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikunjmalani&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjmalani&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 🐦 [Twitter](https://twitter.com/yourtwitterhandle)
+- 🌐 Portfolio Website: _Coming Soon!_
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+
+Thank you for visiting my GitHub Portfolio! 🙏
