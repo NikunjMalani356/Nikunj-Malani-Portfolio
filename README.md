@@ -20,7 +20,7 @@ I'm passionate about developing cross-platform mobile applications using Flutter
 Flutter, Dart, Android, iOS, Java
 
 **State Management:**  
-BLoC, GetX, MVVM, MobX
+BLoC, Provider, GetX, MVVM, MobX
 
 **Backend & Cloud Services:**  
 Firebase, Google Cloud, Spring Boot Integration, REST API
@@ -35,7 +35,7 @@ AI-based pad scanning, barcode & food image recognition, prediction systems
 Clean Architecture, Offline-first Apps, RxDart, Material Design, Social Integration, Push Notifications, Payment Gateway Integration, E-Commerce Development
 
 **Tools:**  
-GitHub, Jira, Postman, VS Code, Android Studio
+GitHub, Jira, Postman, Android Studio
 
 **Languages:**  
 English, Hindi, Gujarati
