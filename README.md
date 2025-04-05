@@ -23,7 +23,7 @@ Flutter, Dart, Android, iOS, Java
 BLoC, Provider, GetX, MVVM, MobX
 
 **Backend & Cloud Services:**  
-Firebase, Google Cloud, Spring Boot Integration, REST API
+Firebase, Google Cloud, REST API
 
 **Databases:**  
 SQLite, Hive, Firebase Firestore
