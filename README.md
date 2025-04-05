@@ -40,7 +40,7 @@ GitHub, Jira, Postman, VS Code, Android Studio
 **Languages:**  
 English, Hindi, Gujarati
 
-
+---
 
 ## 🚀 Projects
 
